@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Desafio
+
+Desenvolva uma aplicação em que:
+
+- o usuário pode clicar em qualquer lugar da página.
+- deve-se renderizar um pequeno círculo na posição clicada.
+- a cada clique, mantém-se os círculos já criados e renderiza-se um novo.
+- crie duas funcionalidades para a aplicação:
+    - desfazer (undo)
+    - refazer (redo)
